@@ -7,14 +7,14 @@
     "um": "ts-node ./unidade01/ex01",
     "dois": "ts-node ./unidade01/ex02",
     "tres": "ts-node ./unidade01/ex03",
-    "quatro": "ts-node ./unidade01/ex04",
+    "quatro": "ts-node ./unidade01/ex04_hjsj",
     "cinco": "ts-node ./unidade01/ex05",
     "seis": "ts-node ./unidade01/ex06",
     "sete": "ts-node ./unidade01/ex07",
     "oito": "ts-node ./unidade01/ex08",
     "nove": "ts-node ./unidade01/ex09",
     "dez": "ts-node ./unidade01/ex10",
-    "catorze": "ts-node ./unidade01/ex14"
+    "catorze": "ts-node ./unidade01/ex14_hjsj"
   },
   "keywords": [],
   "author": "",
